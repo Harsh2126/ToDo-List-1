@@ -30,6 +30,7 @@ ToDo-List1/
 
 ## Screenshots
 
+![Screenshot](https://github.com/user-attachments/assets/097ce9d5-95fb-4871-81ec-4f5c8edac5d2)
 
 
 ## Credits
@@ -41,10 +42,6 @@ ToDo-List1/
 ---
 
 **Enjoy your organized day!**
-
-
-```![Screenshot 2025-05-30 124903](https://github.com/user-attachments/assets/6a6239c2-e286-4b8d-92a5-c43f60c1ae54)
-![Screenshot 2025-05-30 124903](https://github.com/user-attachments/assets/097ce9d5-95fb-4871-81ec-4f5c8edac5d2)
 
 
 ---
