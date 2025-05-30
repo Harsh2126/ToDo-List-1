@@ -1,8 +1,3 @@
-Description--------------
-This is a simple and modern To-Do List web application built with HTML, CSS (with Bootstrap for layout), and JavaScript. It allows users to add, mark as done, sort, and delete tasks. The UI is responsive and visually appealing, featuring a glassmorphism effect and Font Awesome icons.
-
-
-
 # To-Do List Web App
 
 A simple, modern, and responsive To-Do List application built with HTML, CSS (Bootstrap), and JavaScript.
