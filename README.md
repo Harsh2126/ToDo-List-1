@@ -30,7 +30,7 @@ ToDo-List1/
 
 ## Screenshots
 
-![Screenshot]("C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2025-05-30 124903.png") <!-- Add your screenshot here if available -->
+
 
 ## Credits
 
