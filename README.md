@@ -30,7 +30,7 @@ ToDo-List1/
 
 ## Screenshots
 
-![Screenshot](screenshot.png) <!-- Add your screenshot here if available -->
+![Screenshot]("C:\Users\harsh\OneDrive\Pictures\Screenshots\Screenshot 2025-05-30 124903.png") <!-- Add your screenshot here if available -->
 
 ## Credits
 
@@ -42,31 +42,8 @@ ToDo-List1/
 
 **Enjoy your organized day!**
 
-## Usage
-
-1. Clone or download this repository.
-2. Open `index.html` in your browser.
-3. Start adding and managing your tasks!
-
-## File Structure
 
 ```
-ToDo-List1/
-│
-├── index.html      # Main HTML file
-├── style.css       # Custom styles
-└── script.js       # JavaScript logic
-```
-
-## Screenshots
-
-![Screenshot](screenshot.png) <!-- Add your screenshot here if available -->
-
-## Credits
-
-- [Bootstrap](https://getbootstrap.com/)
-- [Font Awesome](https://fontawesome.com/)
-- [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
 
 ---
 
