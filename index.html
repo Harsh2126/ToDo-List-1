@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:700&display=swap" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Sortable/1.14.0/Sortable.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"></script>
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.20/lodash.min.js"></script>
+</head>
+<body>  
+      <div class="todo-container bg-white p-4 rounded shadow">
+        <h2 class="mb-4 text-center">To-Do List</h2>
+        <div class="mb-3">
+            <div class="container-fluid px-0">
+                <div class="row gx-3 gy-2">
+                    <div class="col-6">
+                        <input type="text" id="taskInput" class="form-control" placeholder="Enter a new task">
+                    </div>
+                    <div class="col-3">
+                        <button id="addTaskBtn" class="btn btn-success w-100">
+                            <i class="fas fa-plus"></i> Add Task
+                        </button>
+                    </div>
+                    <div class="col-3">
+                        <button id="resetTasksBtn" class="btn btn-warning w-100">
+                            <i class="fas fa-undo"></i> Reset Tasks
+                        </button>
+                    </div>
+                </div>
+                <div class="row gx-3 gy-2 mt-2">
+                    <div class="col-6"></div>
+                    <div class="col-3">
+                        <button id="sortTasksBtn" class="btn btn-info text-white w-100">
+                            <i class="fas fa-sort"></i> Sort Tasks
+                        </button>
+                    </div>
+                    <div class="col-3">
+                        <button id="deleteTaskBtn" class="btn btn-danger w-100">
+                            <i class="fas fa-trash"></i> Delete task
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <ul id="taskList" class="list-group"></ul>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
